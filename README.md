@@ -1,1 +1,1 @@
-# Playing With Cats
+# Playing with Cats for Scala
